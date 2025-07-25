@@ -1,3 +1,5 @@
+// Guess the number? 
+
 let random = Math.floor(Math.random()*100) + 1;
 
 let guess = -1 ;
