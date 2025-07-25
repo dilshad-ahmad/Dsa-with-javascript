@@ -1,3 +1,4 @@
+//Reverse the number 
 var pr = prompt("Enter the number");
 if (pr === null) {
     console.log("cancelled")
